@@ -1,4 +1,5 @@
 > # captcha-breaker
+# Refactored preprocessor - 2026-03-11
 > 
 > [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/ScriptStratos/captcha-breaker) 
 > [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
