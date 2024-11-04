@@ -6,6 +6,7 @@ import tensorflow as tf
 from loguru import logger
 
 from model import create_model
+# Refactored decoder - 2026-03-11
 
 # Constants
 IMAGE_WIDTH = 200
