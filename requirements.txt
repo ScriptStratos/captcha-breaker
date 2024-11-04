@@ -2,3 +2,5 @@ tensorflow
 opencv-python
 numpy
 loguru
+
+# Updated model logic - 2026-03-11
