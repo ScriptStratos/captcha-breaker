@@ -1,4 +1,5 @@
 > # captcha-breaker
+# Refactored preprocessor - 2026-03-11
 # Refactored solver - 2026-03-11
 # Refactored trainer - 2026-03-11
 # Refactored trainer - 2026-03-11
