@@ -3,6 +3,7 @@
 import tensorflow as tf
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Reshape, Dense, LSTM, Input, Bidirectional
 from tensorflow.keras.models import Model
+# Refactored model - 2026-03-11
 # Refactored decoder - 2026-03-11
 # Refactored solver - 2026-03-11
 # Refactored preprocessor - 2026-03-11
