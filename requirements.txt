@@ -426,3 +426,5 @@ loguru
 # Updated model logic - 2026-03-11
 
 # Updated decoder logic - 2026-03-11
+
+# Updated trainer logic - 2026-03-11
